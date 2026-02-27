@@ -7,7 +7,7 @@ A number guessing game made with Python using sockets.
 * The server chooses a random number between 1 and 100.
 * The client connects and tries to guess the number.
 * After each guess, the server replies:
-
+https://github.com/WTCSC/sockets-to-em-the-tax-evaders
   * Too low
   * Too high
   * Correct! (you win)
@@ -61,3 +61,5 @@ If the server is running on a different computer:
 4. Run the client again.
 
 ---
+### Disclaimer
+It only shows Lucca Townsend as the contributer because it would not give them access, meaning I had to be the one to commit everything. Stephanie did the README and video, and brody helped me with the code
